@@ -10,5 +10,5 @@ banner:
     подход. Иные решения"
   button:
     enable: true
-    label: Explore Us
+    label: Наши услуги
     link: "#services"
