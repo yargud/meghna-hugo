@@ -7,7 +7,7 @@ team:
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
     designation: Маркетолог
-    content: 'Может все... идея наружи изнутри, с "любовью" в Вас  '
+    content: 'Может все... идеи наружи изнутри, с "любовью" в Вас  '
     social:
     - icon: ti-facebook
       link: "#"
