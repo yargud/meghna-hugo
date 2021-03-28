@@ -1,11 +1,9 @@
 ---
 contact:
   enable: true
-  title: Связаться с нами
-  subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  title: Контакты
+  subtitle: ''
+  content: ''
   contact_list:
   - icon: ti-location-pin
     info: Khaja Road, Bayzid, Chittagong, Bangladesh
