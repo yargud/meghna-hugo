@@ -3,20 +3,13 @@ team:
   enable: true
   title: Наша команда
   team_member:
-  - name: Abul Mal Muhit
+  - name: Юлия
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
-    designation: CEO/Founder
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    designation: Маркетолог
+    content: 'Может все... идея наружи изнутри, с "любовью" в Вас  '
     social:
     - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
       link: "#"
   - name: Frank Miller
     image_webp: images/team/team-2.webp
