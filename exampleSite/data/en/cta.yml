@@ -7,5 +7,5 @@ cta:
   content: Подготовим концепцую, согласуем решение, отправим в производство
   button:
     enable: true
-    label: Start a project with us
+    label: Начни проект с нами
     link: "#contact"
