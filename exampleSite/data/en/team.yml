@@ -21,20 +21,13 @@ team:
       link: "#"
     - icon: ti-twitter-alt
       link: "#"
-  - name: Michael Jonson
+  - name: Александр
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
-    designation: Web Developer
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    designation: Мастер СМР
+    content: Рукастый ...
     social:
     - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
       link: "#"
   - name: Mo. Kha. Alamgir
     image_webp: images/team/team-4.webp
