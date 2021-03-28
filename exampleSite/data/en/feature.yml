@@ -9,10 +9,9 @@ feature:
   - title: Брендинг
     icon: ti-world
     content: Разработка идеи и ее визуализация
-  - title: Easy Customization
+  - title: 3D визуализация
     icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: от идеи до макета всего один шаг
   - title: SEO Optimized
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
