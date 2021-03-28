@@ -6,10 +6,9 @@ feature:
   title: Наши идеи и инструменты для вашего успеха
   content: Наши возможности для реализации ваших идей
   feature_item:
-  - title: SEO Optimized
+  - title: Брендинг
     icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Разработка идеи и ее визуализация
   - title: Easy Customization
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
