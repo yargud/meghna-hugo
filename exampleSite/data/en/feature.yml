@@ -3,8 +3,8 @@ feature:
   enable: true
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
-  title: Наши идеи и инструменты для вашего успеха
-  content: Наши возможности для реализации ваших идей
+  title: Наши инструменты для вашего успеха
+  content: Мы сделаем все от разработки концепции до реализации решения.
   feature_item:
   - title: Маркетинг и брендинг
     icon: ti-world
