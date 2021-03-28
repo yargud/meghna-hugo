@@ -101,8 +101,8 @@ pre = ""
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = ""
+description = "Брендинг; Дизайн; Вывески; Наружная реклама;"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
