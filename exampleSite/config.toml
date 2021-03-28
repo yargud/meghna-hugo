@@ -19,7 +19,7 @@ pre = "#"
 url = "about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
+name = "Услуги"
 pre = "#"
 url = "services"
 weight = 2
@@ -29,7 +29,7 @@ pre = "#"
 url = "portfolio"
 weight = 3
 [[Languages.en.menu.main]]
-name = "team"
+name = "Команда"
 pre = "#"
 url = "team"
 weight = 4
@@ -44,7 +44,7 @@ pre = "#"
 url = "blog"
 weight = 6
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Контакты"
 pre = "#"
 url = "contact"
 weight = 7
