@@ -23,36 +23,16 @@ name = "Услуги"
 pre = "#"
 url = "services"
 weight = 2
-#[[Languages.en.menu.main]]
-#name = "portfolio"
-#pre = "#"
-#url = "portfolio"
-#weight = 3
 [[Languages.en.menu.main]]
 name = "Команда"
 pre = "#"
 url = "team"
 weight = 4
-#[[Languages.en.menu.main]]
-#name = "pricing"
-#pre = "#"
-#url = "pricing"
-#weight = 5
-#[[Languages.en.menu.main]]
-#name = "blog"
-#pre = "#"
-#url = "blog"
-#weight = 6
 [[Languages.en.menu.main]]
 name = "Контакты"
 pre = "#"
 url = "contact"
 weight = 7
-#[[Languages.en.menu.main]]
-#name = "themefisher"
-#pre = ""
-#url = "https://themefisher.com/"
-#weight = 8
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
@@ -147,16 +127,4 @@ icon = "ti-facebook"
 link = "#"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
 link = "#"
