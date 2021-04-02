@@ -20,8 +20,8 @@ team:
     - icon: ti-facebook
       link: https://www.instagram.com/business_kitchen/
   - name: Александр
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
+    image_webp: images/team/sass.webp
+    image: images/team/sass.jpg
     designation: Мастер СМР
     content: Рукастый ...
     social:
