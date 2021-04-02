@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: images/und.webp
+  bg_image: images/und.jpg
   icon: ''
   title: Лучшие практики для ваших проектов
   content: "\U0001F31FРекламная группа\U0001F31F\n\U0001F52EБрендинг. Дизайн.\n\U0001F525Производство:
