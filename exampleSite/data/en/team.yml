@@ -12,8 +12,8 @@ team:
     - icon: ti-facebook
       link: https://www.instagram.com/business_kitchen/
   - name: Илья
-    image_webp: images/team/zaza.webp
-    image: images/team/zaza.jpg
+    image_webp: images/zaza.webp
+    image: images/zaza.jpg
     designation: "....."
     content: "......"
     social:
