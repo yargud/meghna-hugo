@@ -4,8 +4,8 @@ team:
   title: Наша команда
   team_member:
   - name: Юлия
-    image_webp: images/team/ruru.webp
-    image: images/team/ruru.jpg
+    image_webp: images/ruru.webp
+    image: images/ruru.jpg
     designation: Маркетолог
     content: 'Может все... идеи наружи изнутри, с "любовью" в Вас  '
     social:
