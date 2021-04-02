@@ -4,13 +4,13 @@ team:
   title: Наша команда
   team_member:
   - name: Юлия
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
+    image_webp: images/team/ruru.webp
+    image: images/team/ruru.jpg
     designation: Маркетолог
     content: 'Может все... идеи наружи изнутри, с "любовью" в Вас  '
     social:
     - icon: ti-facebook
-      link: "#"
+      link: https://www.instagram.com/business_kitchen/
   - name: Илья
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
