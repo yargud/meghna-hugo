@@ -3,7 +3,7 @@ team:
   enable: true
   title: Наша команда
   team_member:
-  - name: Юлия
+  - name: Юля
     image_webp: images/ruru.webp
     image: images/ruru.jpg
     designation: Маркетолог
