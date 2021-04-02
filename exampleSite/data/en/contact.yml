@@ -12,7 +12,7 @@ contact:
   - icon: ti-printer
     info: 'Fax: +880-31-000-000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Почта: 1225080@mail.ru'
   contact_form:
     enable: true
     form_action: "#"
