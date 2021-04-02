@@ -12,15 +12,13 @@ team:
     - icon: ti-facebook
       link: https://www.instagram.com/business_kitchen/
   - name: Илья
-    image_webp: images/team/team-2.webp
-    image: images/team/team-2.jpg
+    image_webp: images/team/zaza.webp
+    image: images/team/zaza.jpg
     designation: "....."
     content: "......"
     social:
     - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
+      link: https://www.instagram.com/business_kitchen/
   - name: Александр
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
