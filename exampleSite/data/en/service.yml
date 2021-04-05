@@ -8,7 +8,7 @@ service:
     content: Разработка концепций и стратегий
   - name: Наружная реклама
     icon: ti-image
-    content: Изготовление печатной и не тольк....
+    content: наружная и интерьерная реклама
   - name: Дизайн и 3D
     icon: ti-palette
     content: "...."
