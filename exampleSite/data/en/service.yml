@@ -7,7 +7,7 @@ service:
     icon: ti-light-bulb
     content: Разработка концепций и стратегий
   - name: Наружная реклама
-    icon: ti-face-smile
+    icon: ti-image
     content: Изготовление печатной и не тольк....
   - name: Дизайн и 3D
     icon: ti-palette
