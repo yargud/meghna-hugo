@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: false
+  enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
@@ -9,6 +9,6 @@ banner:
     #Наружная_реклама, #Полиграфия #Вывески #Торговая_мебель\n\U0001F51DNEW IDEA\nИной
     подход. Иные решения"
   button:
-    enable: false
+    enable: true
     label: Наши услуги
     link: "#services"
