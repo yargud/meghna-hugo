@@ -126,7 +126,7 @@ preloader = "images/logo.png"
 icon = "ti-instagram"
 link = "#"
 [[params.social]]
-icon = "ti-headphone-alt"
+icon = "ti-comments"
 link = "#"
 [[params.social]]
 icon = "ti-twitter-alt"
