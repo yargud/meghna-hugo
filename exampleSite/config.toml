@@ -10,9 +10,9 @@ title = "Business Kitchen"
 contentDir = "content/english"
 copyright = "2021"
 home = "Home"
-languageCode = "en-us"
+languageCode = "ru-ru"
 languageName = "En"
-weight = 1
+weight = "1"
 [[Languages.en.menu.main]]
 name = "О нас"
 pre = "#"
