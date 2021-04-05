@@ -15,7 +15,7 @@ contact:
     enable: true
     form_action: "#"
     name: Имя
-    email: Email
+    email: Почта
     subject: Тема
     message: Сообщение
     submit: Отправить
