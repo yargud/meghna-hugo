@@ -14,11 +14,6 @@ languageCode = "ru-ru"
 languageName = "En"
 weight = "1"
 [[Languages.en.menu.main]]
-name = "О нас"
-pre = "#"
-url = "about"
-weight = 1
-[[Languages.en.menu.main]]
 name = "Услуги"
 pre = "#"
 url = "services"
