@@ -12,10 +12,9 @@ service:
   - name: Дизайн и 3D
     icon: ti-palette
     content: "...."
-  - name: Graphic Design
+  - name: Торговое оборудование
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Изготовление
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
