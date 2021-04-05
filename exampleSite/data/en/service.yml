@@ -18,7 +18,6 @@ service:
   - name: Полиграфия
     icon: ti-printer
     content: 'Типа с принтера '
-  - name: Networking
-    icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: СМР
+    icon: ti-ruler-pencil
+    content: 'Оборудуем от лавки до мегамолла '
