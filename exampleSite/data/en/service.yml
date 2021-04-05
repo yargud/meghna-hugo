@@ -6,10 +6,9 @@ service:
   - name: Маркетинг и брендинг
     icon: ti-bookmark-alt
     content: Разработка концепций и стратегий
-  - name: Responsive Design
-    icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Наружная реклама
+    icon: ti-face-smile
+    content: Изготовление печатной и не тольк....
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
