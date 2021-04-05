@@ -124,7 +124,7 @@ enable = false
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-instagram"
-link = "#"
+link = "https://www.instagram.com/business_kitchen/"
 [[params.social]]
 icon = "ti-comments"
 link = "#"
