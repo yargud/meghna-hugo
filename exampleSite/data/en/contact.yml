@@ -13,7 +13,7 @@ contact:
     info: 'Почта: 1225080@mail.ru'
   contact_form:
     enable: true
-    form_action: "#"
+    form_action: https://formspree.io/f/mleokeqq
     name: Имя
     email: Почта
     subject: Тема
