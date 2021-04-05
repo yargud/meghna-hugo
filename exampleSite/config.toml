@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "Business Kitchen"
 [Languages.en]
 contentDir = "content/english"
-copyright = ""
+copyright = "2021"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
