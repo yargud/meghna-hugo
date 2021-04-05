@@ -1,6 +1,6 @@
 ---
 about:
-  enable: true
+  enable: false
   title: О Нас
   about_item:
   - icon: ti-ruler-pencil
