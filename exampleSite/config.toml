@@ -79,7 +79,7 @@ weight = 8
 author = ""
 description = "Брендинг; Дизайн; Вывески; Наружная реклама;"
 google_analytics_id = ""
-logo = "/images/ek.svg"
+logo = ""
 post_share = true
 [params.cookies]
 enable = false
