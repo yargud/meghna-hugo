@@ -3,7 +3,7 @@ service:
   enable: true
   title: Наши услуги
   service_item:
-  - name: WordPress Theme
+  - name: Маркетинг и брендинг
     icon: ti-world
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
