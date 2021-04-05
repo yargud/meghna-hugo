@@ -15,10 +15,9 @@ service:
   - name: Торговое оборудование
     icon: ti-anchor
     content: Изготовление
-  - name: Apps Development
+  - name: Полиграфия
     icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 'Типа с принтера '
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
