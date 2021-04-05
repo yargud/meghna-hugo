@@ -10,7 +10,7 @@ service:
     icon: ti-face-smile
     content: Изготовление печатной и не тольк....
   - name: Дизайн и 3D
-    icon: ti-crown
+    icon: ti-palette
     content: "...."
   - name: Graphic Design
     icon: ti-palette
