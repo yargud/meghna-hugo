@@ -4,7 +4,7 @@ service:
   title: Наши услуги
   service_item:
   - name: Маркетинг и брендинг
-    icon: ti-world
+    icon: ti-bookmark
     content: Разработка концепций и стратегий
   - name: Responsive Design
     icon: ti-layout
