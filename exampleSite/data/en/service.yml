@@ -9,10 +9,9 @@ service:
   - name: Наружная реклама
     icon: ti-face-smile
     content: Изготовление печатной и не тольк....
-  - name: Media &amp; Advertisement
-    icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Дизайн и 3D
+    icon: ti-crown
+    content: "...."
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
