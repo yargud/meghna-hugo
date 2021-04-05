@@ -13,7 +13,7 @@ service:
     icon: ti-palette
     content: "...."
   - name: Торговое оборудование
-    icon: ti-palette
+    icon: ti-anchor
     content: Изготовление
   - name: Apps Development
     icon: ti-package
