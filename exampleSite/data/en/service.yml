@@ -4,9 +4,8 @@ service:
   title: Наши услуги
   service_item:
   - name: Маркетинг и брендинг
-    icon: ti-world
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    icon: marketing-and-branding.svg
+    content: Разработка концепций и стратегий
   - name: Responsive Design
     icon: ti-layout
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
