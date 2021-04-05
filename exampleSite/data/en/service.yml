@@ -16,7 +16,7 @@ service:
     icon: ti-anchor
     content: Изготовление
   - name: Полиграфия
-    icon: ti-package
+    icon: ti-ruler-pencil
     content: 'Типа с принтера '
   - name: Networking
     icon: ti-pulse
