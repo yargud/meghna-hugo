@@ -4,9 +4,9 @@ funfacts:
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
-  - title: Разработанно концепций
+  - title: Разработано лого
     icon: ti-face-smile
-    count: "284"
+    count: "89"
   - title: Выполненые проеты
     icon: ti-archive
     count: "315"
