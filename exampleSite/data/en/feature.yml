@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/und.jpg
-  image_webp: images/und.webp
+  image: images/left1.jpg
+  image_webp: images/left1.webp
   title: Инструментарий вашего успеха
   content: Мы сделаем все от разработки концепции до реализации решения.
   feature_item:
