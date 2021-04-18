@@ -48,12 +48,12 @@ pre {
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
-  background: ffed00;
+  background: #57cbcc;
 }
 
 ::selection {
   color: #fff;
-  background: ffed00;
+  background: #57cbcc;
 }
 
 hr {
