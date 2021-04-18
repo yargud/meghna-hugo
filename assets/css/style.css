@@ -117,7 +117,7 @@ a:hover {
 .btn-transparent:focus {
   background-color: #ffed00;
   border: 1px solid transparent;
-  color: #1d2024;
+  color: #fff;
 }
 
 .border-meghna {
