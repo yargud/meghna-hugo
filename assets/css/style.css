@@ -962,7 +962,7 @@ a:hover {
   Services section 2
 ==================================================================*/
 .service-2 .service-item {
-  border: 1px solid #ffed00;
+  border: 1px solid #eee;
   margin-bottom: 30px;
   padding: 50px 20px;
   transition: all 0.3s ease 0s;
