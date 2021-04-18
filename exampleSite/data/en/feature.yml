@@ -13,7 +13,7 @@ feature:
     icon: ti-panel
     content: от идеи до макета всего один шаг
   - title: Производство
-    icon: ti-stats-up
+    icon: ti-hummer
     content: Наружная реклама, полиграфия, торговое оборудование
   - title: Дизайн
     icon: ti-announcement
