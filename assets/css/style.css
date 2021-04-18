@@ -106,7 +106,7 @@ a:hover {
 }
 
 .btn:focus {
-  color: #ffed00;
+  color: #ddd;
 }
 
 .btn-transparent {
@@ -696,7 +696,7 @@ a:hover {
   background-color: transparent;
   border-radius: 0;
   padding: 5px 10px;
-  color: #ddd;
+  color: #ffed00;
   border: 1px solid rgba(236, 239, 241, 0.07);
 }
 
