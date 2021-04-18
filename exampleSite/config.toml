@@ -19,11 +19,6 @@ pre = "#"
 url = "services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "Команда"
-pre = "#"
-url = "team"
-weight = 4
-[[Languages.en.menu.main]]
 name = "Контакты"
 pre = "#"
 url = "contact"
