@@ -13,7 +13,7 @@ service:
     icon: ti-palette
     content: "...."
   - name: Торговое оборудование
-    icon: ti-anchor
+    icon: ti-package
     content: Изготовление
   - name: Полиграфия
     icon: ti-printer
