@@ -4,7 +4,7 @@ funfacts:
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
-  - title: Счастливые клиенты
+  - title: Разработанно концепций
     icon: ti-face-smile
     count: "284"
   - title: Выполненые проеты
