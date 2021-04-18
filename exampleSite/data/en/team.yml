@@ -1,6 +1,6 @@
 ---
 team:
-  enable: true
+  enable: false
   title: Наша команда
   team_member:
   - name: Юля
