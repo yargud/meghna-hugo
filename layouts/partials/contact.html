@@ -27,10 +27,19 @@
 					<div class="con-info clearfix">
 						<i class="{{ .icon }}"></i>
 						<span>{{ .info }}</span>
+			{{"<!-- member social profile -->" | safeHTML}}
+           		 <div class="mask">
+             		 <ul class="list-inline">
+                	{{ range .social }}
+                	<li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+              		</ul>
+           					</div>
+						{{ end }}
 					</div>
 					{{ end }}
 				</div>
 				{{ end }}
+			
 			</div>
 
 			{{"<!-- Contact Form -->" | safeHTML}}
