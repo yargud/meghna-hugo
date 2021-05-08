@@ -5,8 +5,6 @@ contact:
   subtitle: Встречи и консультации по предварительной записи
   content: ''
   contact_list:
-  - icon: ti-instagram
-    info: ' <a href="https://www.instagram.com/business_kitchen/">ссылка</a>'
   - icon: ti-location-pin
     info: г. Артем, ул. Бийская 4/1
   - icon: ti-mobile
