@@ -7,6 +7,7 @@ contact:
   contact_list:
   - icon: ti-location-pin
     info: г. Артем, ул. Бийская 4/1
+    link: https://go.2gis.com/115lz
   - icon: ti-mobile
     info: 'Телефон: +79241225080'
   - icon: ti-email
