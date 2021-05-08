@@ -2,8 +2,8 @@
 contact:
   enable: true
   title: Контакты
-  subtitle: ''
-  content: Встречи и консультации по предварительной записи
+  subtitle: Встречи и консультации по предварительной записи
+  content: ''
   contact_list:
   - icon: ti-instagram
     info: https://www.instagram.com/business_kitchen/
