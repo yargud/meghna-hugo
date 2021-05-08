@@ -11,12 +11,6 @@ contact:
     info: 'Телефон: +79241225080'
   - icon: ti-email
     info: 'Почта: 1225080@mail.ru'
-  - icon = "ti-instagram"
-  - link = "https://www.instagram.com/business_kitchen/"
-  - icon = "ti-comments"
-  - link = "https://wa.me/79241225080"
-
-
   contact_form:
     enable: true
     form_action: https://formspree.io/f/mleokeqq
