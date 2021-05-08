@@ -9,3 +9,7 @@ cta:
     enable: true
     label: Начни проект с нами
     link: "#contact"
+  params:
+	instagram:
+	appId: 289568839514318
+	clientToken: f5405c1c45b287cbcc98edf276bf30a2
