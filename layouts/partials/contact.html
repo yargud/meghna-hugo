@@ -29,17 +29,16 @@
 						<span>{{ .info }}</span>
            				</div>
 					{{ end }}
+				
+				<div class="mask">
+					<ul class="list-inline">
+					{{ range .contact_list }}
+					<li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+					{{ end }} 
+					</ul>
+					</div>
 				</div>
 				{{ end }}
-
-{{"<!-- member social profile -->" | safeHTML}}
-            <div class="mask">
-              <ul class="list-inline">
-                {{ range .social }}
-                <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-                {{ end }}
-              </ul>
-            </div>
 			</div>
 
 			{{"<!-- Contact Form -->" | safeHTML}}
