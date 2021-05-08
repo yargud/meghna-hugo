@@ -3,7 +3,7 @@ contact:
   enable: true
   title: Контакты
   subtitle: ''
-  content: ''
+  content: Встречи и консультации по предварительной записи
   contact_list:
   - icon: ti-location-pin
     info: г. Артем, ул. Бийская 4/1
