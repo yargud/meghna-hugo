@@ -16,6 +16,7 @@ contact:
     info: Инстаграм
   - icon: ti-comments
     link: https://wa.me/79241225080
+    info: Whatsapp
   contact_form:
     enable: true
     form_action: https://formspree.io/f/mleokeqq
